@@ -1,6 +1,6 @@
 # HELLO! 👋
 
-I'm [SOUNDGOD], a new fullstack web dev, vr game builder and mobile app builder.
+I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 
 ## 🔧 Technologies & Tools
 
@@ -10,7 +10,7 @@ I'm [SOUNDGOD], a new fullstack web dev, vr game builder and mobile app builder.
 - jsx
 - swift
 - c#
-- 
+  
 
 ### Frontend
 - HTML
@@ -44,5 +44,5 @@ I'm [SOUNDGOD], a new fullstack web dev, vr game builder and mobile app builder.
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
-- [DISCORD](https://twitter.com/your_username)
+- [DISCORD](https://discord.com/users/1189624341302882487)
 
