@@ -10,7 +10,8 @@ I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 - jsx
 - swift
 - c#
-  
+- HTML
+- CSS
 
 ### Frontend
 - HTML
@@ -25,7 +26,7 @@ I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 ### Databases
 - MongoDB
 - MySQL
-- sqlit
+- sqlite
 - replit db
 - firebase
 
@@ -38,9 +39,9 @@ I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 - ssh
 
 ## 🌱 I’m currently learning
-- [jsx]
-- [nodejs]
-- [Swift]
+- react and vite with jsx
+- nodejs with express
+- SwiftUI/swift
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
