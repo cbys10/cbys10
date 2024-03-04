@@ -1,16 +1,48 @@
-                                                                                ### Hi there 👋
+# HELLO! 👋
 
-<!--
-**cbys10/cbys10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [SOUNDGOD], a new fullstack web dev, vr game builder and mobile app builder.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- JavaScript
+- Python
+- jsx
+- swift
+- c#
+- 
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Backend
+- Node.js
+- Express
+- python flask
+
+### Databases
+- MongoDB
+- MySQL
+- sqlit
+- replit db
+- firebase
+
+### Tools
+- Git
+- VSCode
+- raspberryPi
+- kali-linux
+- ubuntu
+- ssh
+
+## 🌱 I’m currently learning
+- [jsx]
+- [nodejs]
+- [Swift]
+
+## 📫 How to reach me
+- [Email](mailto:cbysket@gmail.com)
+- [DISCORD](https://twitter.com/your_username)
+
