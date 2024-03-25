@@ -1,6 +1,6 @@
 # HELLO! 👋
 
-I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
+I'm SOUNDGOD, a new fullstack web dev,Software Engineer, and Hardware Engineer.
 
 ## 🔧 Technologies & Tools
 
@@ -12,6 +12,7 @@ I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 - c#
 - HTML
 - CSS
+  C++
 
 ### Frontend
 - HTML
@@ -20,14 +21,14 @@ I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 
 ### Backend
 - Node.js
-- Express
-- python flask
+- Express.js
+- Python Flask
 
 ### Databases
 - MongoDB
 - MySQL
 - sqlite
-- replit db
+- ReplitDB
 - firebase
 
 ### Tools
@@ -36,12 +37,14 @@ I'm SOUNDGOD, a new fullstack web dev, vr game builder and mobile app builder.
 - raspberryPi
 - kali-linux
 - ubuntu
-- ssh
+- SSH
+- Arduino
 
 ## 🌱 I’m currently learning
-- react and vite with jsx
-- nodejs with express
-- SwiftUI/swift
+- React.js/ts and Vite.js
+- Node.js with Express.js
+- SwiftUI/Swift
+- Hardware Engineering with Arduino and C++
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
