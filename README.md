@@ -8,11 +8,13 @@ I'm SOUNDGOD, a new fullstack web dev,Software Engineer, and Hardware Engineer.
 - JavaScript
 - Python
 - jsx
-- swift
-- c#
+- tsx
+- TypeScript
+- Swift
+- C#
 - HTML
 - CSS
-  C++
+- C++
 
 ### Frontend
 - HTML
