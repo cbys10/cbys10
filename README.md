@@ -29,9 +29,10 @@ I'm SOUNDGOD, a new 13 year old fullstack web dev,Software Engineer, and Hardwar
 ### Databases
 - MongoDB
 - MySQL
-- sqlite
+- SQLite
 - ReplitDB
-- firebase
+- Firebase
+- PlayFab
 
 ### Tools
 - Git
