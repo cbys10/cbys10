@@ -14,7 +14,6 @@ I'm SOUNDGOD, a new 13 year old Fullstack Web Developer,Software Engineer, and H
 - C#
 - HTML
 - CSS
-- C++
 
 ### Frontend
 - HTML
