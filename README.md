@@ -2,8 +2,6 @@
 
 I'm SOUNDGOD, a new 13 year old Fullstack Web Developer,Software Engineer, and Hardware Engineer.
 
-## 🔧 Technologies & Tools
-
 ### Programming Languages
 - JavaScript
 - Python
@@ -14,6 +12,8 @@ I'm SOUNDGOD, a new 13 year old Fullstack Web Developer,Software Engineer, and H
 - C#
 - HTML
 - CSS
+- C
+- C++
 
 ### Frontend
 - HTML
@@ -41,12 +41,12 @@ I'm SOUNDGOD, a new 13 year old Fullstack Web Developer,Software Engineer, and H
 - ubuntu
 - SSH
 - Arduino
+- TI 84 Plus C/C++ Toolchain
 
 ## 🌱 I’m currently learning
 - React.js/ts and Vite.js
 - Node.js with Express.js
-- SwiftUI/Swift
-- Hardware Engineering with Arduino and C++
+- Calculator hacking and game making with the TI 84 Plus C/C++ toolchain
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
