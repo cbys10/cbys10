@@ -46,7 +46,7 @@ I'm SOUNDGOD, a new 13 year old Fullstack Web Developer,Software Engineer, and H
 ## 🌱 I’m currently learning
 - React.js/ts and Vite.js
 - Node.js with Express.js
-- Calculator hacking and game making with the TI 84 Plus C/C++ toolchain
+- Learning engineering with arduino and esp32 microcontrollers
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
