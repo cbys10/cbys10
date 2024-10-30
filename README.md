@@ -1,6 +1,6 @@
 # HELLO! 👋
 
-I'm SOUNDGOD, a new 13 year old Fullstack Web Developer,Software Engineer, and Hardware Engineer.
+I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardware Engineer.
 
 ### Programming Languages
 - JavaScript
