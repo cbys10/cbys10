@@ -1,6 +1,6 @@
 # HELLO! 👋
 
-I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardware Engineer.
+I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardware Engineer, Game Developer.
 
 ### Programming Languages
 - JavaScript
@@ -47,8 +47,14 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 - React.js/ts and Vite.js
 - Node.js with Express.js
 - Learning engineering with arduino and esp32 microcontrollers
+- Learning more on swiftui to make a game
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
 - [DISCORD](https://discord.com/users/1189624341302882487)
 
+## Current Projects
+- Mobile Music Game (a one key rhythm game made in swiftui on swift playgrounds, got bored during school)
+- FNFUSE (a unity engine version of friday night funkin, fnfuse stands for friday night funkin unity sound engine)
+
+I believe in open source so when i finish a project it will be published here.
