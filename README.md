@@ -6,8 +6,6 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 - JavaScript
 - Python
 - jsx
-- tsx
-- TypeScript
 - Swift
 - C#
 - HTML
@@ -47,7 +45,7 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 - React.js/ts and Vite.js
 - Node.js with Express.js
 - Learning engineering with arduino and esp32 microcontrollers
-- Learning more on swiftui to make a game
+- How to make a roblox game
 
 ## 📫 How to reach me
 - [Email](mailto:cbysket@gmail.com)
@@ -56,5 +54,7 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 ## Current Projects
 - Ploopit
 - WaveSphere
+- Grow A Garden Plus
+- FNFUSE
 
-I believe in open source so when i finish a project it will be published here.
+I believe in open source is life so when I finish a project it will be published here.
