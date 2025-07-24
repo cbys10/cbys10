@@ -52,7 +52,7 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 - [DISCORD](https://discord.com/users/1189624341302882487)
 
 ## Current Projects
-- Ploopit
+- Ploopit v2.15
 - WaveSphere
 - Grow A Garden Plus
 - FNFUSE v1
