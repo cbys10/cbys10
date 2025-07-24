@@ -55,6 +55,6 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 - Ploopit
 - WaveSphere
 - Grow A Garden Plus
-- FNFUSE
+- FNFUSE v1
 
 I believe in open source is life so when I finish a project it will be published here.
