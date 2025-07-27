@@ -57,4 +57,4 @@ I'm SOUNDGOD, a 14 year old Fullstack Web Developer,Software Engineer, and Hardw
 - Grow A Garden Plus
 - FNFUSE v1
 
-I believe in open source is life so when I finish a project it will be published here.
+I believe open source is life so when I finish a project it will be published here.
