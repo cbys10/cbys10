@@ -64,8 +64,8 @@
   >
     For more details and better look go to my site at
     <a style="color: grey" href="https://soundgod.ploopit.org"
-      >https://soundgod.ploopit.org</a
-    >I believe that open sourced code is life so when I finish a project it will
+      >https://soundgod.ploopit.org </a
+    > I believe that open sourced code is the best and since its what gotten me here today I want that same knowledge shared! So when I finish a project it will
     be published here.
   </div>
 </div>
