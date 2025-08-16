@@ -54,4 +54,5 @@
     <img src="https://cdn.simpleicons.org/gnubash" style="width: 50px" />
     <img src="https://cdn.simpleicons.org/ubuntu" style="width: 50px" />
   </div>
+  <div style="color: white; font-weight: bold; text-align: center; font-size: 15px;">For more details and better look go to my site at <a style="color: grey;" href="https://soundgod.ploopit.org">https://soundgod.ploopit.org</a>I believe that open sourced code is life so when I finish a project it will be published here.</div>
 </div>
