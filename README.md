@@ -28,7 +28,8 @@
   <div style="width: 80%; height: 2px; background: white; margin: 20px 0"></div>
   <br />
   <div style="font-size: 2.5rem; font-weight: 600; color: white">Tech</div>
-
+<br/>
+<br/>
   <div
     style="
       display: flex;
