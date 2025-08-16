@@ -10,10 +10,6 @@
   padding: 20px;
 ">
 
-  <div style="font-size: 3rem; font-weight: 700; color: white;">
-    SOUNDGOD
-  </div>
-
   <img
     src="https://soundgod.ploopit.org/assets/pfp-CC4q1Vud.jpg"
     style="width: 120px; border-radius: 50%;"
